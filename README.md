@@ -1,4 +1,4 @@
-# Applied_Python_hw3
+# Applied_Python_hw3  
 
 Краткое описание приложения:
 __Функции:__
